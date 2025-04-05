@@ -8,7 +8,7 @@ Ideal para estudantes de inglês que utilizam o sistema Terminallang para estuda
 
 - Busca de frases por palavra-chave exata (com suporte a acentuação).
 - Interface rápida e minimalista com `dmenu`.
-- Leitura da frase com `espeak-ng` (voz feminina, inglês dos EUA).
+- Leitura da frase com `espeak-ng`.
 - Exibição da frase completa com opção de repetir ou fechar (`yad`).
 - Compatível com frases no formato do Terminallang:  
   `Frase em inglês (pronúncia) [tradução]`.
