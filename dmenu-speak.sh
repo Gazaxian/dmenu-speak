@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ARQUIVO="$HOME/Documentos/terminallang/anotacoes.txt"
+ARQUIVO="$HOME/anotacoes.txt"
 
 [[ ! -f "$ARQUIVO" ]] && {
     echo "Arquivo de frases não encontrado."
